@@ -1,4 +1,7 @@
 # Deli_EPlus_AutoSignup 
+该项目在原作者的代码上进行了修改和改进：https://github.com/xinbaji/Deli_EPlus_AutoSignUp
+
+以下内容是原作者提供的使用方法：
 
 ## 一、使用方法
 ### 1. 下载任意模拟器
